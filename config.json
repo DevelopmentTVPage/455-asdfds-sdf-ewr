@@ -1,0 +1,14 @@
+{
+    "title": "qwesadf",
+    "baseURL": "https:\/\/asdfds.sdf.ewr",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "firstpartycookies": true,
+        "cookiedomain": "sdf.ewr"
+    }
+}
